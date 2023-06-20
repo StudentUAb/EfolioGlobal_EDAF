@@ -42,7 +42,7 @@ void insertionSort(std::vector<int>& arr) {
 // Função principal
 int main() {
     // Cria um vetor de inteiros
-    std::vector<int> arr = {8, 6, 3, 2, 1, 9, 5, 4, 7};
+    std::vector<int> arr = {3, 7, 8, 9, 5, 1, 4, 2, 6};
 
     // int arr_size = arr.size();
     std::cout << "Para o vetor ";

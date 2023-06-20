@@ -43,7 +43,7 @@ void quickSort(std::vector<int>& arr, int low, int high) {
 }
 
 int main() {
-    std::vector<int> arr = {8, 6, 3, 2, 1, 9, 5, 4, 7};
+    std::vector<int> arr = {3, 7, 8, 9, 5, 1, 4, 2, 6};
 
     std::cout << "Para o vetor ";
     printArray(arr);
