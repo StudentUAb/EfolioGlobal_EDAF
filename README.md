@@ -30,7 +30,7 @@ O projeto foi feito em C++
 The project was done with C++
 
 
-<img width="400"src="tela.png" alt="page-home">
+<img width="400" src="tela.png" alt="page-home">
 
 
 🔧 Tecnologias utilizadas:
