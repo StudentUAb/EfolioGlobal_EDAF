@@ -10,6 +10,9 @@ A classificação de matrizes é comum na programação para ajudar a entender o
 Coloquei aqui 4 exemplos:
 Insertion Sort, Merge Sort, Quick Sort e Comb Sort.
 
+considerando este exemplo:
+O vetor [3 7 8 9 5 1 4 2 6]. Ordena o vetor, utilizando o algoritmo de ordenação,(Insertion Sort, Merge Sort, Quick Sort e Comb Sort.), apresenta e justifica os passos intermédios durante a ordenação.
+
 </p>
 
 📌 Programa sobre # EfolioGlobal de Estruturas de Dados e Algoritmos Fundamentais
