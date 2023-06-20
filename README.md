@@ -14,7 +14,7 @@ Insertion Sort, Merge Sort, Quick Sort e Comb Sort.
 
 📌 Programa sobre # EfolioGlobal de Estruturas de Dados e Algoritmos Fundamentais
 
-Algoritmos Fundamentais
+Algoritmos Fundamentais </br>
  Ordenação (Sorting) em C++
 ------------------
 
